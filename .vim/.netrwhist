@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/tuczi/git/tuczi-github/Simple-twit.er/app/assets/javascripts'
+let g:netrw_dirhist_2='/home/tuczi/git/tuczi-github/Simple-twit.er/app/views/layouts'
+let g:netrw_dirhist_3='/home/tuczi/git/tuczi-github/Simple-twit.er/app/assets/stylesheets'
+let g:netrw_dirhist_4='/home/tuczi/git/tuczi-github/Simple-twit.er/app/views/comments'
+let g:netrw_dirhist_5='/home/tuczi/git/tuczi-github/Simple-twit.er/frontend/assets/javascripts'
+let g:netrw_dirhist_6='/home/tuczi/git/tuczi-github/Simple-twit.er/frontend/assets/stylesheets'
+let g:netrw_dirhist_7='/home/tuczi/git/Amano Interactive/xbee868-routing-thesis/chapters/implementation/software implementation'
