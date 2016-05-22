@@ -1,0 +1,3 @@
+setxkbmap pl
+export BOOST_ROOT=$BOOST_ROOT"/usr/include/CLucene/ext/ "
+

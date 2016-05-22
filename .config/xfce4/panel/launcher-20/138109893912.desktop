@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Geany
+Name[pl]=Geany
+GenericName=Integrated Development Environment
+GenericName[pl]=Zintegrowane środowisko programistyczne
+Comment=A fast and lightweight IDE using GTK2
+Comment[pl]=Szybkie i lekkie środowisko programistyczne oparte na GTK2
+Exec=geany %F
+Icon=geany
+Terminal=false
+Categories=GTK;Development;IDE;
+MimeType=
+StartupNotify=true
+X-XFCE-Source=file:///usr/share/applications/geany.desktop
