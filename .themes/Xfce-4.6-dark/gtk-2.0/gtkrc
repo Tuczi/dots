@@ -8,7 +8,7 @@
 # Released under the GPL license
 
 # Modified by Tomasz Kuczma 2016 for xfce 4.12
-gtk_color_scheme = "fg_color:#dbdbdb\nbg_color:#404040\nbase_color:#424247\ntext_color:#dbdbdb\nselected_bg_color:#8c8e90\nselected_fg_color:#dbdbdb\ntitle_bar_color:#588FD7"
+gtk_color_scheme = "fg_color:#dbdbdb\nbg_color:#454545\nbase_color:#47474C\ntext_color:#dbdbdb\nselected_bg_color:#8c8e90\nselected_fg_color:#dbdbdb\ntitle_bar_color:#588FD7"
 
 style "default"
 {
